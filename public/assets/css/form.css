@@ -1,0 +1,40 @@
+*{
+
+    font-family: Roboto;
+
+}
+#nav{
+
+    width: 100%;
+    height: auto;
+    background-color:#8700db;
+    padding-top:1px;
+    padding-bottom:6px;
+
+}
+#nav-text{
+
+    color:white;
+    font-size: medium;
+    text-align: center;
+   
+
+}
+footer{
+
+    width: 100%;
+    height: auto;
+    background-color:#8700db;
+    margin-top:30%;
+    padding-top: 10px;
+    padding-bottom:50px;
+
+}
+#footerh1{
+
+    color:white;
+    font-size: 26px;
+    text-align: center;
+    
+  
+}
